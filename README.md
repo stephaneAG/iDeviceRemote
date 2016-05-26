@@ -27,15 +27,14 @@ ideas, wip &amp; stuff related to building/writing remotes for the Apple devices
 #               #
  ###############
 ```
-| Command | Description |
-| :---   | :---        |
-| 0x77E150AD | Volume Up
-| 0x77E130AD | Volume Down
-| 0x77E1A0AD | Play / Pause
-| 0x77E160AD | Next
-| 0x77E190AD | Previous
-| 0x77E1C0AD | Menu
-
+| Command [using ken shirriff' lib] | [using Espruino & custom decoder ] | Description |
+| :---                              | :---        | :---        |
+| 0x77E150AD | 2011254957 | Volume Up
+| 0x77E130AD | 2011246765 | Volume Down
+| 0x77E1A0AD | 2011275437 | Play / Pause
+| 0x77E160AD | 2011259053 | Next
+| 0x77E190AD | 2011271341 | Previous
+| 0x77E1C0AD | 2011283629 | Menu
   
 ----
   
