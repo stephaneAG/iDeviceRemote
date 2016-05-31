@@ -27,6 +27,8 @@ ideas, wip &amp; stuff related to building/writing remotes for the Apple devices
 #               #
  ###############
 ```
+[AppleRemote_module.js](AppleRemote_module.js)
+
 | Command [using ken shirriff' lib] | [using Espruino & custom decoder ] | Description |
 | :---                              | :---        | :---        |
 | 0x77E150AD | 2011254957 | Volume Up
@@ -50,6 +52,8 @@ ideas, wip &amp; stuff related to building/writing remotes for the Apple devices
 #______________________#
 
 ```
+[AppleDock_module.js](AppleDock_module.js)
+
 | Command | Description |
 | :---   | :---        |
 0x00 0x00 | Button Released |
