@@ -10,6 +10,10 @@ require("AppleDock").connect(TxPin, function() {
 
 */
 
+// R: the original Arduino code is available in the current repo as:
+// -  AppleDock_original.ino     -> contains everything :)
+// - AppleDock_originalLight.ino -> no mode 4 support :/
+
 // iDevices codes setup
 // 0      | 1      | 2      | 3    | 4       | 5       | 6     | 7
 // header | header | length | mode | command | command | param | checksum
