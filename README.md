@@ -40,7 +40,16 @@ ideas, wip &amp; stuff related to building/writing remotes for the Apple devices
   
 
 
-##### Mode 2 iPod Remote
+##### Apple Dock
+```
+      ____________ 
+ ____|============|____  
+#                      #
+#      ==========      #
+#                      #
+#______________________#
+
+```
 | Command | Description |
 | :---   | :---        |
 0x00 0x00 | Button Released |
