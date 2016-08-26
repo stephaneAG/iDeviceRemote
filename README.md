@@ -81,10 +81,6 @@ ideas, wip &amp; stuff related to building/writing remotes for the Apple devices
 
 
 ##### iDevice keyboard shortcut
-Notes: 
-- some of those needs "VoiceOver" or specific iOS versions
-- iOS 7 SDK allows apps custom keyboard shortcuts for external bluetooth keyboards
-- hold CMD for 1 sec to get a list of an app's keyboard shortcuts
 
 
 
