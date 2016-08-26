@@ -76,15 +76,22 @@ ideas, wip &amp; stuff related to building/writing remotes for the Apple devices
 0x00 0x00 0x00 0x08 | Ipod On |
 0x00 0x00 0x00 0x40 | Menu Button |
 0x00 0x00 0x00 0x80 | OK/Select |
-0x00 0x00 0x00 0x00 0x01 | Scroll Up
-0x00 0x00 0x00 0x00 0x02 | Scroll Down
+0x00 0x00 0x00 0x00 0x01 | Scroll Up |
+0x00 0x00 0x00 0x00 0x02 | Scroll Down |
 
+
+
+--
 
 ##### iDevice keyboard shortcut
 
-
+Notes: 
+- some of those needs "VoiceOver" or specific iOS versions
+- iOS 7 SDK allows apps custom keyboard shortcuts for external bluetooth keyboards
+- hold CMD for 1 sec to get a list of an app's keyboard shortcuts
 
 System
+
 | Command | Description |
 | :---   | :---        |
 F1 | Dim screen |
@@ -101,6 +108,7 @@ EJECT | Toggle onscreen keyboard
 CMD + ENTER | Send text message ?
 
 Text selection & navigation
+
 | Command | Description |
 | :---   | :---        |
 CMD + C | Copy |
@@ -133,6 +141,7 @@ SHIFT + ALT + leftArrow | Select text on left, word by word |
 SHIFT + ALT + rightArrow | Select text on right, word by word |
 
 Navigation
+
 R: Settings > General > Accessibility > turn on VoiceOver ( actual voice over can be turned off with CTRL + ALT + S )
 | Command | Description |
 | :---   | :---        |
@@ -153,6 +162,7 @@ CMD + TAB | Switch back to original app |
 leftArrow/rightArrow then ALT + either | Navigate through dock |
 
 Safari
+
 | Command | Description |
 | :---   | :---        |
 CMD + L | Open location |
@@ -162,6 +172,7 @@ CMD + R | refresh current tab |
 CMD + . | Stop loading current tab |
 
 Mail
+
 | Command | Description |
 | :---   | :---        |
 CMD + N | Create a new message |
@@ -170,6 +181,7 @@ BACKSPACE | Delete currently selected message |
 upArrow/downArrow | Select suggested mail in To/CC/BCC fields |
 
 Pages
+
 | Command | Description |
 | :---   | :---        |
 CMD + SHIFT + K | Comment |
@@ -177,6 +189,7 @@ CMD + ALT + K | Show next comment |
 CMD + ALT + SHIFT + K | Show previous comment |
 
 VoiceOver
+
 | Command | Description |
 | :---   | :---        |
 CTRL + ALT + A | Read all fro current position |
