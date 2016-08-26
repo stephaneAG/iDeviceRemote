@@ -141,8 +141,8 @@ SHIFT + ALT + leftArrow | Select text on left, word by word |
 SHIFT + ALT + rightArrow | Select text on right, word by word |
 
 Navigation
-
 R: Settings > General > Accessibility > turn on VoiceOver ( actual voice over can be turned off with CTRL + ALT + S )
+
 | Command | Description |
 | :---   | :---        |
 CTRL + ALT + H | Home button |
