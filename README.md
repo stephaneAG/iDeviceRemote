@@ -1,6 +1,17 @@
 # iDeviceRemote
 ideas, wip &amp; stuff related to building/writing remotes for the Apple devices
 
+#### 2018 update: I need to finish this project !
+R: http://forum.espruino.com/conversations/287385/#comment13013007
+
+TODO: find how to send cmds ;)
+- http://www.ipodlinux.org/Apple_Accessory_Protocol/
+- https://github.com/iPodLinux/linux-ipod/blob/master/2.4/arch/armnommu/mach-ipod/ipodremote.c
+- http://forum.arduino.cc/index.php?topic=21743.15
+- https://www.instructables.com/id/Arduino-iPod/ <-- must read ?
+
+- http://wiringdiagramblog.today/30-pin-ipod-cable-to-usb-wire-schematic.html
+- https://hackaday.com/2013/04/22/connect-a-retina-display-to-a-regular-computer/
 
 ----
 
